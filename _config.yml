@@ -6,7 +6,7 @@ url: "http://cunoastere.github.io/" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Cunoastere
-  avatar: cap-logo.png
+  avatar: logo2.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
