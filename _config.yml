@@ -18,24 +18,24 @@ theme:
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: feed.xml
+  email_address: razvan@cunoastere.info
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: 
+  github:
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: 
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter:
   wordpress:
   youtube:
 
